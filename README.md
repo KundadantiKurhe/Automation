@@ -20,7 +20,7 @@ This project demonstrates Behavior Driven Development (BDD) using Cucumber with 
 
 ### Installation & Running Tests
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/KundadantiKurhe/Automation.git
 2. Navigate to the project directory:
 3. Run tests using Maven:
 or run the JUnit runner class from your IDE
